@@ -21,6 +21,6 @@ Users can enter their name, click **Generate**, and see a customized funny story
 - JavaScript (ES6)
 
 ## Setup
-Hosted Link:
+Hosted Link:https://niranjana-03.github.io/Story_generator/
    ```bash
    git clone https://github.com/your-username/silly-story-generator.git
